@@ -122,3 +122,23 @@
     line-height: 33px;
     color: #434343;
 }
+.conclusion{
+    background-color: #0865DE;
+    width: 1345px;
+}
+.conclusion h2{
+    font-size: 25px;
+    line-height: 30px;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+    padding-left: 180px;
+    padding-top: 90px;
+    margin-bottom: 65px;
+}
+.conclusion p{
+    font-size: 25px;
+    line-height: 44px;
+    color: #002D69;
+    width: 1000px;
+    padding-left: 180px;
+}
