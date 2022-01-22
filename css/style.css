@@ -86,3 +86,17 @@
     padding-right: 170px;
     width: 1000px;
 }
+.middle-content img{
+    padding-left: 90px;
+    width: 1290px;
+    height: 556px;
+    margin-bottom: 90px;
+}
+.middle-content-articles{
+    padding-left: 180px;
+    width: 1000px;
+    margin-bottom: 90px;
+}
+.middle-content-articles article{
+    margin-bottom: 60px;
+}
