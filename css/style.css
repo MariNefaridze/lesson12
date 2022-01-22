@@ -141,6 +141,7 @@
     color: #002D69;
     width: 1000px;
     padding-left: 180px;
+    padding-bottom: 120px;
 }
 .grids-template h2{
     font-size: 14px;
@@ -177,7 +178,7 @@
 }
 .grid .text{
     padding-left: 30px;
-    padding-bottom: 50px;
+    padding-bottom: 40px;
 }
 .grid .text h3{
     font-size: 13px;
@@ -217,4 +218,33 @@ h6::before{
     height: 21px;
     margin-right: 18px;
     border-radius: 50%;
+}
+.button{
+    width: 176px;
+    background-color: #FF7600;
+    margin-left: 500px;
+    margin-bottom: 90px;
+    border: #707070;
+    border-radius: 4px;
+    display: flex;
+    padding: 15px;
+}
+.click a{
+    font-size: 12px;
+    color: #FFFFFF;
+}
+.click{
+    margin-left: 15px;
+}
+.click::before{
+    content: '';
+    display: inline-block;
+    width: 2px;
+    height: 24px;
+    background-color: #FFFFFF;
+    opacity: 50%;
+    margin-right: 15px;
+}
+.icon{
+    padding-top: 5px;
 }
