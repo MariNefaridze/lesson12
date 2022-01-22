@@ -1,5 +1,6 @@
 .body{
     width: 1440px;
+    background-color: #F7F7F7;
 }
 .header-img{
     height: 900px;
@@ -53,4 +54,35 @@
 .top-article p{
     font-size: 25px;
     color: #434343;
+}
+.articles{
+    box-shadow: #707070 0px 3px 8px;
+    border-radius: 6px;
+    background-color: #FFFFFF;
+    height: 630px;
+    margin: 90px 90px 0px 90px;
+    width: 1200px;
+}
+.articles article{
+    padding-left: 90px;
+    padding-top: 60px;
+    width: 1000px;
+}
+.article h2{
+    font-size: 25px;
+    line-height: 33px;
+    color: #262626;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-bottom: 35px;
+}
+.article1 .text{
+    margin-bottom: 35px;
+}
+.article p{
+    font-size: 18px;
+    line-height: 33px;
+    color: #434343;
+    padding-right: 170px;
+    width: 1000px;
 }
