@@ -100,3 +100,25 @@
 .middle-content-articles article{
     margin-bottom: 60px;
 }
+.flex{
+    display: flex;
+}
+.flex-text{
+    padding-left: 180px;
+    margin-bottom: 90px;
+}
+.flex-text h2{
+    font-size: 25px;
+    line-height: 33px;
+    color: #000000;
+    margin-bottom: 35px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.flex p{
+    width: 440px;
+    margin-right: 90px;
+    font-size: 18px;
+    line-height: 33px;
+    color: #434343;
+}
